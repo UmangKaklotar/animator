@@ -1,5 +1,9 @@
 # animator
 
+
+https://user-images.githubusercontent.com/116021163/218279258-9d208d6c-1f13-4cf3-9d6b-01bc19477d9e.mp4
+
+
 A new Flutter project.
 
 ## Getting Started
